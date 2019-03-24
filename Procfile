@@ -1,0 +1,1 @@
+web: java -jar target/dumerz-rest-0.0.1-SNAPSHOT.jar --server.port=$PORT
